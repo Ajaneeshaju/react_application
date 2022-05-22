@@ -1,0 +1,44 @@
+.description{
+    color: #63544F;
+    text-align: left;
+}
+.about{
+    color: #63544F;
+text-align: left;
+    font-size: 10px;
+}
+.details{
+    text-align: left;
+    color: #63544F;
+}
+.ingrident{
+    text-align: left;
+}
+.list{
+    text-align: left;
+}
+.img8{
+    text-align: left;
+}
+.add{
+    width: 200px;
+    color: green;
+}
+.carde{
+    /* height: 100px; */
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+
+}
+.img_size{
+    height: 250px;
+    width: 200px;
+}
+.carde1{
+    border:solid #C9C9C9;
+}
+.name{
+    text-align: center;
+}
+

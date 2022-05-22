@@ -1,0 +1,15 @@
+.align{
+    margin-top: 50px;
+    background-color: #63544F;
+    color: white;
+    text-align: left;
+    font-size: 10px;
+}
+.text{
+    width: 150px;
+    height: 28px;
+}
+Button{
+    width: 100px;
+    /* background-color: yellow; */
+}

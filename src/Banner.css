@@ -1,0 +1,125 @@
+
+.bread{
+    width: 366px;
+    height: 250px;
+}
+.quote{
+    text-align: left;
+font: normal normal normal 24px/35px URW DIN;
+letter-spacing: 0px;
+color: #63544F;
+opacity: 1;
+width: 600px;
+}
+.sold{
+    text-align: left;
+font: normal normal medium 13px/18px URW DIN;
+letter-spacing: 0px;
+color: #63544F;
+}
+span{
+    color: rgb(124, 124, 230);
+}
+.wishlist{
+    margin-left: 34px;
+    height: 17px;
+    width: 20px;
+}
+.fav{
+    display: flex;
+    height: 10px;
+}
+.compare{
+    width: 87px;
+    height: 21px;
+    margin-left: 30px;
+}
+.num{
+    height: 10px;
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+    font: normal normal medium 13px/18px URW DIN;
+letter-spacing: 0px;
+color: #63544F;
+}
+.case{
+    display: flex;
+}
+.button1{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 20px;
+    border-color: blue;
+}
+.button2{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.button3{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 95px;
+}
+
+
+.size{
+    margin-top: 10px;
+    display: flex;
+}
+.price{
+    display: flex;
+    text-align: left;
+    color: #BA0C2F;
+}
+
+h4{
+    margin-left: 40px;
+}
+p{
+    margin-left: 10px;
+    font-size: normal normal medium 13px/18px URW DIN;
+}
+.sale-price{
+    color: #A99868;
+}
+.qty{
+    display: flex;
+    text-align: left;
+    margin-top: 10px;
+}
+Button{
+    height: 30px;
+    width: 30px;
+}
+.button5{
+    width:50px ;
+}
+.button6{
+    margin-left: 25px;
+
+}
+.button7{
+    margin-left: 40px;
+width: 242px;
+background-color: #2D5566;
+color: white;
+border-radius: 5px;
+}
+.shopping{
+    color: #233E8C;
+    font-size: 13px;
+}
+.policy{
+    display: flex;
+    /* text-align: left; */
+    font-size: 13px;
+
+}
+a{
+    margin-left: 20px;
+}

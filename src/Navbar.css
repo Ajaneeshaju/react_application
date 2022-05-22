@@ -1,0 +1,66 @@
+
+.color{
+    height: 40px;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+
+}
+h6{
+margin-top: 9px;
+opacity: 1;
+height: 24px;
+}
+/* .trade{
+    margin-top: 50px;
+    margin-left: 277px;
+} */
+
+.nav{
+    /* border: solid black; */
+    /* height: 121px; */
+    width: 100%;
+}
+
+.icon{
+
+    height: 67px;
+    width: 64px;
+    margin-left: 143px;
+    padding-top: 19px;
+}
+.search{
+    height: 30px;
+    width: 722px;
+    margin-top: 20px;
+    opacity: 1;
+}
+button{
+    height: 50px;
+    width: 64px;
+    margin-top: 5px;
+}
+.options{
+    height: 50px;
+    width: 100%;
+
+    border:1px solid #C8B9AB;
+    display: flex;
+    justify-content: space-around;
+    font:  normal normal normal 18px/18px URW DIN;
+    letter-spacing: 0px;
+}
+.header{
+    margin-top: 10px;
+}
+.search_icon{
+    margin-top: 20px;
+    height: 30px;
+}
+.user_icon{
+    height: 20px;
+    width: 20px;
+    margin-left: 62px;
+    margin-top: 22px;
+}
